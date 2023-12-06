@@ -39,6 +39,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 - BootStrap
 - hyderabad
 - bangloore
+- Hanumkonda
 
 2. Back-End Development:
 - Java [JDK 8+]
