@@ -36,6 +36,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 - CSS
 - Javascript
 - BootStrap
+- hyderabad
 
 2. Back-End Development:
 - Java [JDK 8+]
